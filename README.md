@@ -7,6 +7,21 @@ My favorite game!!!!!
 
 ![WAR THUNDER](https://static.warthunder.com/upload/image/0_Wallpaper_Renders/2560x1440_wt_10_years_logo_e7ab71375223efbaa789c95078de5024.jpg)
 
+**INFO**
+
+*There might be words that you dont know the meaning so I'll tell you*
+
+Hull - The lower part of a tank
+
+Turret - The upper part of a tank
+
+(Number)mm - How big is the caliber of the gun
+
+HE - High Explosive
+
+ERA - Explosive Reactive Armor
+
+
 # **My Favorite Vehicles in War Thunder** #
 
 ---
@@ -25,7 +40,7 @@ My favorite game!!!!!
 
 -Its very fast and agile
 
--It holds the world record on being the fastest tank
+-It holds the world record on being the fastest tank (can historically go 92kp/h)
 
 ---
 2. Every Sherman 
@@ -48,13 +63,15 @@ My favorite game!!!!!
 
 3. T1E1 (both regular and 90mm variant)
 
-![T1E1](https://github.com/user-attachments/assets/20ac932b-d556-4e08-847c-fc6a49892550)
+![T1E1](https://github.com/user-attachments/assets/718ac0fb-daa6-4222-afbf-bda1bc373f9a)
 
 -T1E1 is one of USA's tanks that they used in WW2
 
 -T1E1 is a heavy tank, but its mobility is fast
 
 -T1E1 (90) is equipped with an 90mm gun, basically it is an upgraded version of the original tank
+
+-The T1E1 uses 2 guns, 1 75mm or 90mm, and 1 37mm gun. Add in the 2 extra MG's on the hull
 
 ---
 
@@ -146,3 +163,30 @@ My favorite game!!!!!
 
 ![M60A3 TTS](https://github.com/user-attachments/assets/3ce5441f-8546-4f71-960c-38b36f3e6243)
 
+-The M60A3 TTS is a modernized and modified version of the M60A1
+
+-The M60A3 TTS was modified by the isrealis with ERA for use in Lebanon War of 1982
+
+-The M60A3 also served in the Golf War
+
+---
+
+11. T28/T95
+
+![T95](https://github.com/user-attachments/assets/ce33061a-93aa-442e-86da-5ec6bffdb680)
+
+-The T28/T95 is the exact same but with the difference of classifications (I'll use T95 to say the tank)
+
+-The T95 was originally build to deal with German fortifications back in WW2, but was abandoned on how long it was taking to produce
+
+-The actual name of the tank is T28 GMC, because before its name was the T95 due to the lack of a turret. But was re-classified to T28 due to the heavy armor
+
+-The T95 is the first ever Super Heavy Tank of the Americans
+
+-The T95's fastest speed is 13kp/h
+
+-The tank community calls this tank the "Tutel"
+
+---
+
+12. XM800T
