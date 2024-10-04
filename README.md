@@ -1,4 +1,4 @@
-# Arrowsmith-04
+![image](https://github.com/user-attachments/assets/043d4fd7-97de-4ee8-be43-98cfc571044e)# Arrowsmith-04
 CN 4
 ---
 My favorite game!!!!!
@@ -190,3 +190,9 @@ ERA - Explosive Reactive Armor
 ---
 
 12. XM800T
+
+(No Images can be supported)
+
+-The XM800T is an essence the predecessor to the M2 Bradley
+
+-Funny little IFV that can float on water
