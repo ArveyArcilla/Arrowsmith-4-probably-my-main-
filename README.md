@@ -41,7 +41,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-1. M18 GMC
+1) M18 GMC
 
 ![M18 GMC](https://wiki.warthunder.com/images/e/e3/ArtImage_M18_GMC.jpg)
 
@@ -56,7 +56,7 @@ IFV- Infantry Fighting Vehicle
 -I just love this thing
 
 ---
-2. Every Sherman 
+2) Every Sherman 
 
 ![Sherman](https://wiki.warthunder.com/images/c/c5/ArtImage_M4A3E2_%2876%29_W.png)
 
@@ -76,7 +76,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-3. T1E1 (both regular and 90mm variant)
+3) T1E1 (both regular and 90mm variant)
 
 ![T1E1](https://github.com/user-attachments/assets/718ac0fb-daa6-4222-afbf-bda1bc373f9a)
 
@@ -92,7 +92,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-4. M109A1
+4) M109A1
 
 ![M109A1](https://github.com/user-attachments/assets/14407ba4-c6a4-4d8f-aed8-718b29da89b5)
 
@@ -106,7 +106,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-5. T29/T30/T34 Heavy Tanks
+5) T29/T30/T34 Heavy Tanks
 
 ![T34](https://github.com/user-attachments/assets/ee78e555-717e-45de-9adf-36cb1d3b5a30)
 
@@ -122,7 +122,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-6. M26 Pershing
+6) M26 Pershing
 
 ![M26](https://github.com/user-attachments/assets/2fdba48a-c505-4791-bdf4-3a4089becbc7)
 
@@ -138,7 +138,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-7. M26E1-1
+7) M26E1-1
 
 ![M26E1-1](https://github.com/user-attachments/assets/42f289f0-f09c-426a-8e08-58cd3c26f8e4)
 
@@ -154,7 +154,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-8. M46 Patton
+8) M46 Patton
 
 ![M46 Patton](https://github.com/user-attachments/assets/26da2cf3-aa48-4201-9533-a68a34891a2e)
 
@@ -170,7 +170,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-9. M60/M60A1
+9) M60/M60A1
 
 ![M60A1](https://github.com/user-attachments/assets/caf41d10-937d-4d26-9d6e-459af52a53de)
 
@@ -188,7 +188,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-10. M60A3 TTS
+10) M60A3 TTS
 
 ![M60A3 TTS](https://github.com/user-attachments/assets/3ce5441f-8546-4f71-960c-38b36f3e6243)
 
@@ -202,7 +202,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-11. T28/T95
+11) T28/T95
 
 ![T95](https://github.com/user-attachments/assets/ce33061a-93aa-442e-86da-5ec6bffdb680)
 
@@ -222,7 +222,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-12. XM800T
+12) XM800T
 
 ![XM800T](https://github.com/user-attachments/assets/043d4fd7-97de-4ee8-be43-98cfc571044e)
 
@@ -234,7 +234,7 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-13. BFV (Bradley Fighting Vehicles)
+13) BFV (Bradley Fighting Vehicles)
 
 ![M3A3 Bradley](https://github.com/user-attachments/assets/1e27e370-e402-4e20-b50a-ffe7464bd4da)
 
@@ -262,4 +262,4 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-14. 
+14) 
