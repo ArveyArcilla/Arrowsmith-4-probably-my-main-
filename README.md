@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/043d4fd7-97de-4ee8-be43-98cfc571044e)# Arrowsmith-04
+# Arrowsmith-04
 CN 4
 ---
 My favorite game!!!!!
@@ -17,10 +17,21 @@ Turret - The upper part of a tank
 
 (Number)mm - How big is the caliber of the gun
 
-HE - High Explosive
+AP- Armor Piercing shell
+
+APHE- Armor Piercing Hight Explosive shell
+
+APDS - Armor-Piercing Discarding Sabot shell
+
+APFSDS - Armor-Piercing Fin-Stabilizer Discarding Sabot shell
+
+HE - High Explosive shell
+
+ATGM - Anti-Tank Guided Missle
 
 ERA - Explosive Reactive Armor
 
+IFV- Infantry Fighting Vehicle
 
 # **My Favorite Vehicles in War Thunder** #
 
@@ -42,6 +53,8 @@ ERA - Explosive Reactive Armor
 
 -It holds the world record on being the fastest tank (can historically go 92kp/h)
 
+-I just love this thing
+
 ---
 2. Every Sherman 
 
@@ -59,6 +72,8 @@ ERA - Explosive Reactive Armor
 
 -The Jumbos turret mantlet is so armoured it can take shots from the Tiger H1/E frontally
 
+-Like it because, sherman
+
 ---
 
 3. T1E1 (both regular and 90mm variant)
@@ -73,6 +88,8 @@ ERA - Explosive Reactive Armor
 
 -The T1E1 uses 2 guns, 1 75mm or 90mm, and 1 37mm gun. Add in the 2 extra MG's on the hull
 
+-Very cool Heavy Tank
+
 ---
 
 4. M109A1
@@ -84,6 +101,8 @@ ERA - Explosive Reactive Armor
 -M109A1 or like any M109 vareint, is still used today
 
 -M109A1 has a 155mm cannon, HE shell packs a punch
+
+-I like its big HE cannon
 
 ---
 
@@ -99,6 +118,8 @@ ERA - Explosive Reactive Armor
 
 -The T34 is the final variation of the tank using concept of the T29 and using the same hull as the T30 but for an exchange of 120mm gun based on the M1 anti-aircraft gun
 
+-I like it because very cool nice looking Heavy Tank
+
 ---
 
 6. M26 Pershing
@@ -112,6 +133,8 @@ ERA - Explosive Reactive Armor
 -The M26 was made to fight off the Germans back in WW2
 
 -The M26 saw service from WW2 to The Korean war
+
+-I like it because why not
 
 ---
 
@@ -127,6 +150,8 @@ ERA - Explosive Reactive Armor
 
 -Its like an Tank Destroyer on a Medium tank armor
 
+-I like it because big long gun that shoots very strong AP/APHE shells
+
 ---
 
 8. M46 Patton
@@ -140,6 +165,8 @@ ERA - Explosive Reactive Armor
 -The M46 served through out the Korean war
 
 -The M46 is just and upgraded version of the M26 Pershing with just better engine, and a even more powerful gun
+
+-It looks very Pershing Tank
 
 ---
 
@@ -157,6 +184,8 @@ ERA - Explosive Reactive Armor
 
 -The M60 tank never saw combat until Yom Kippur War back in 1973, where Isreal used this tank to tank combat.
 
+-I like it because it served a lot of purpose
+
 ---
 
 10. M60A3 TTS
@@ -168,6 +197,8 @@ ERA - Explosive Reactive Armor
 -The M60A3 TTS was modified by the isrealis with ERA for use in Lebanon War of 1982
 
 -The M60A3 also served in the Golf War
+
+-I like it because its the M60
 
 ---
 
@@ -187,12 +218,48 @@ ERA - Explosive Reactive Armor
 
 -The tank community calls this tank the "Tutel"
 
+-I love the tutle
+
 ---
 
 12. XM800T
 
-(No Images can be supported)
+![XM800T](https://github.com/user-attachments/assets/043d4fd7-97de-4ee8-be43-98cfc571044e)
 
 -The XM800T is an essence the predecessor to the M2 Bradley
 
 -Funny little IFV that can float on water
+
+-I love this little guy
+
+---
+
+13. BFV (Bradley Fighting Vehicles)
+
+![M3A3 Bradley](https://github.com/user-attachments/assets/1e27e370-e402-4e20-b50a-ffe7464bd4da)
+
+-The BVF's, is a IFV made by the Americans back in 1981-1990's
+
+-The first version of the Bradley is the M2 Bradley, then the M3
+
+-The Bradley has a 25mm Auto Cannon that shoots out APDS or APFSDS and HE rounds, it is also equiped with an ATGM to fight of tanks
+
+-The Bradley was made during the cold war
+
+-The one in the picture is the M3A3 Bradley
+
+-The M3A3 Bradley is a modified version of the M3, it has better protection with a better ATGM
+
+-The Bradley has lots of versions, Like the "Brat" and "Busk" 
+
+-The "Brat" variant adds ERA to the Turret and Hull
+
+-The "Busk" variant adds protective glass around the commander's hatch as well as a drone jammer on the back of the turret
+
+-The M2A2 can house around 8-7 infantries in it, and the M3A3 house 4 infanties, because it houses more ammunitions
+
+-Bradleys are cool IFV's
+
+---
+
+14. 
