@@ -299,3 +299,7 @@ IFV - Infantry Fighting Vehicle
 -The M1128 uses a Oscillating Turret with an Auto Loader
 
 -The M1128 has a 105mm cannon that shoots out HEATFS and APFSDS
+
+-I like this vehicles because its cool, handsome, and beautiful
+
+16) M1A2 Abrams 
