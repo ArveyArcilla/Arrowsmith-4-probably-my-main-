@@ -17,9 +17,9 @@ Turret - The upper part of a tank
 
 (Number)mm - How big is the caliber of the gun
 
-AP- Armor Piercing shell
+AP - Armor Piercing shell
 
-APHE- Armor Piercing Hight Explosive shell
+APHE - Armor Piercing Hight Explosive shell
 
 APDS - Armor-Piercing Discarding Sabot shell
 
@@ -27,11 +27,15 @@ APFSDS - Armor-Piercing Fin-Stabilizer Discarding Sabot shell
 
 HE - High Explosive shell
 
+HEATFS - High Explosive Anti-Tank Fin-Stabilizer
+
 ATGM - Anti-Tank Guided Missle
+
+TOW - Tube-launched, Optically-tracked, Wire-guided missle
 
 ERA - Explosive Reactive Armor
 
-IFV- Infantry Fighting Vehicle
+IFV - Infantry Fighting Vehicle
 
 # **My Favorite Vehicles in War Thunder** #
 
@@ -262,4 +266,36 @@ IFV- Infantry Fighting Vehicle
 
 ---
 
-14) 
+14) LAV AD
+
+![LAV AD](https://github.com/user-attachments/assets/7064d45e-192b-48f8-86f3-d7c65b44f032)
+
+-The LAV AD is a Anti-Air version of the LAV-25
+
+-The LAV AD uses a 25mm Gatling gun with 8 Fire and Forget Missles or 4 Mistral Missles
+
+-The LAV AD is a slightly modified version of the LAV-25 with Blazer Air Defence Turret
+
+-The LAV-25 in the other hand, is what the LAV AD uses
+
+-The LAV-25 can store infantries and its equiped with a 25mm M242 Bushmaster
+
+-The LAV-25 has another variant, The LAV AT
+
+-The LAV AT is a modified version of the LAV-25, by replacing the turret with an ATGM Laucher
+
+-The LAV AT uses a I-TOW (ATGM) with a penetration up to 650mm
+
+-I like this cuz its a cool IFV (The Philippines used this during the Marawi Seige thats why I like this vehicle)
+
+---
+
+15) M1128 Wolfpack
+
+![M1128 Wolfpack](https://github.com/user-attachments/assets/2a661a01-3642-4774-b99b-3921e54ba0ae)
+
+-The M1128 Wolfpack is a Tank Destroyer or a Assault gun Armored fighting vehicle
+
+-The M1128 uses a Oscillating Turret with an Auto Loader
+
+-The M1128 has a 105mm cannon that shoots out HEATFS and APFSDS
