@@ -9,7 +9,11 @@ My favorite game!!!!!
 
 **INFO**
 
+*There might be misinformation about the vehicles*
+
 *There might be words that you dont know the meaning so I'll tell you*
+
+MBT - Main Battle Tank
 
 Hull - The lower part of a tank
 
@@ -27,7 +31,9 @@ APFSDS - Armor-Piercing Fin-Stabilizer Discarding Sabot shell
 
 HE - High Explosive shell
 
-HEATFS - High Explosive Anti-Tank Fin-Stabilizer
+HESH - High-Explosive Squash Head
+
+HEATFS - High-Explosive Anti-Tank Fin-Stabilizer
 
 ATGM - Anti-Tank Guided Missle
 
@@ -36,6 +42,12 @@ TOW - Tube-launched, Optically-tracked, Wire-guided missle
 ERA - Explosive Reactive Armor
 
 IFV - Infantry Fighting Vehicle
+
+TACOM - Tank-automotive and Armaments Command
+
+ACVT - Armored Combat Vehicle Technology
+
+SEP - System Enhancement Package
 
 # **My Favorite Vehicles in War Thunder** #
 
@@ -302,4 +314,68 @@ IFV - Infantry Fighting Vehicle
 
 -I like this vehicles because its cool, handsome, and beautiful
 
-16) M1A2 Abrams 
+---
+
+16) HSTV-L (High Survivability Test Vehicle - Lightweight)
+
+![HSTV-L](https://github.com/user-attachments/assets/0d854412-bcdd-445c-be37-e83246c84aec)
+
+-The HSTV-L was a U.S. Army light tank manufactured by AAI Corporation. It was developed under the TACOM and ACVT program
+
+-The HSTV-L got cancelled because the technology was not sufficiently advanced to proceed with radical changes in the HSTV-L to meet the new AGS requirements
+
+-The HSTV-L is equiped with a Auto Cannon (75 mm XM274 cannon) that shoots out APFSDS rounds
+
+-I like this tank because it looks funny and very unique vehicle
+
+---
+
+17) All the Abrams 🦅
+
+![M1A2 SEP V2](https://github.com/user-attachments/assets/f5b9d56a-acf3-46d8-adf5-1b1929f8ffa7)
+
+-The M1 Abrams is the main MBT of the USA, made during the Cold War
+
+-The Abrams was ment to replace the M60's
+
+-The Abrams is equiped with a 105mm Cannon, 1 12.7 mm M2HB machine gun, 1 7.62 mm M240 machine gun, and 1 7.62 mm M240 machine gun (coax)
+
+-The 105mm Cannon that the Abrams uses shoots out M456A2 (HEATFS), M393A2	(HESH), and M774 (APFSDS)
+
+-The M1 Abrams was the first every Abrams to be ever made 
+
+-The M1 Abrams has lots of versions like the, **M1A1**, **IPM1**, **M1A1 HC**, **M1A1 AIM**, **M1A1 Click-Bait**, **M1A2 Abrams**, **M1A2 SEP**, **M1A2 SEP V2** and **M1A2 SEP V3**
+
+-Starting off with the **M1A1**,  the M1A1 Abrams was an upgraded version of the original M1. It was first produced in 1985. The main improvements included the installation of a 120mm main gun, a new fire control system, and the addition of ERA to provide better protection against anti-tank weapons.
+
+-Second, the **IPM1**, its just a pre-M1A2 Abrams
+
+-Third, the **M1A1 HC**, the M1A1 HC is a modification of the American M1 Abrams MBT
+
+-Fourth, The **M1A1 AIM**, the M1A1 AIM are refurbished Abrams tanks with additional sensors and communication platforms for better integration with the new information space on the battlefield
+
+-Fifth, the **M1A1 HC "Click-Bait"**, Besides the chair on the roof, the Click-Bait is differentiated from the normal tech tree M1A1HC with the kill marks on its gun, which accurately title some of the vehicles it has destroyed in combat
+
+-Sixth, The **M1A2 Abrams**, The M1A2 Abrams was another upgraded version of the M1 and M1A1. It was first produced in 1986. The main improvements included the integration of a new command and control system, improvements to the armor protection, and the addition of a new gunner's primary sight
+
+-Seventh, The **M1A2 SEP**, The M1A2 SEP is approved for implementation in 1995, the M1A2 SEP is a technology upgrade and standardization program, whereby the Army's fleet of M1s and M1A2s will all be brought to a common standard
+
+-Eighth, The **M1A2 SEP V2**, The M1A2 SEP V2 is an improvement of the M1A2 SEP main battle tank. Upgrades include improved survivability, automotive power pack, computer systems, and night vision capabilities.
+
+-And lastly, Ninth, The **M1A2 SEP V3**, The M1A2 SEP V3 is a modernized version of the M1A2 SEPV V2 main battle tank that benefits from a number of upgrades in the areas of survivability, maintainability, full efficiency, and network capability. The M1A2 SEP V3 has addons, like the "TUSK" addon, it adds "TUSK" ERA that blocks and provide 270mm of chemical protection and are largely ineffective against kinetic projectiles. It also add the Trophy system, the Trophy system has four launchers covering each side of the tank, each with four projectiles to intercept slow-moving projectiles such as RPG warheads
+
+-I love the Abrams because its very iconic and probably the one that started me to get interested in tanks
+
+---
+
+18) Abrams X
+
+![Abrams X](https://github.com/user-attachments/assets/320259cd-42ae-4815-9ff4-72a5a6649a71)
+
+-The M1 Abrams MBT, a cornerstone of the U.S. Army’s arsenal for 44 years, has continuously evolved to maintain its battlefield superiority. The latest iteration is the AbramsX, which offers reduced weight, improved mobility, and a 50% reduction in fuel consumption. It features a hybrid power pack for silent operations, AI-enabled lethality with a 30 mm XM914 Bushmaster chain gun, and an autoloader that reduces the crew size from four to three. The AbramsX is still in the technology demonstrator phase, with operational deployment expected by 2030 as the M1E3 Abrams, ensuring its relevance into 2040 and beyond.
+
+-It features a hybrid power pack for silent operations, AI-enabled lethality with a 30 mm XM914 Bushmaster chain gun, and an autoloader that reduces the crew size from four to three
+
+-The AbramsX is still in the technology demonstrator phase, with operational deployment expected by 2030 as the M1E3 Abrams, ensuring its relevance into 2040 and beyond
+
+-I love the Abrams X because, Abrams X and it looks cool
