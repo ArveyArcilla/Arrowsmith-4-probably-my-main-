@@ -41,6 +41,10 @@ TOW - Tube-launched, Optically-tracked, Wire-guided missle
 
 ERA - Explosive Reactive Armor
 
+AA - Anti-Aircraft
+
+SPAA - Self-Propelled Anti-Aircraft 
+
 IFV - Infantry Fighting Vehicle
 
 TACOM - Tank-automotive and Armaments Command
@@ -82,13 +86,13 @@ SEP - System Enhancement Package
 
 -They are armed with 75mm cannon or 76mm cannon (75 is used for infantry support) (76mm cannon was for fighting tanks)
 
--The one in the picture is a M4A3E2 (76) W , Or called the "Jumbo". Its a Heavy tank made by the USA during WW2
+-The one in the picture is a **M4A3E2 (76) W** , Or called the *"Jumbo"*. Its a Heavy tank made by the USA during WW2
 
 -Jumbo more armored than the regular shermans and can withstand hits from enemy tanks back at the time
 
 -The Jumbos turret mantlet is so armoured it can take shots from the Tiger H1/E frontally
 
--Like it because, sherman
+-Like it because, Sherman
 
 ---
 
@@ -240,13 +244,13 @@ SEP - System Enhancement Package
 
 12) XM800T
 
-![XM800T](https://github.com/user-attachments/assets/043d4fd7-97de-4ee8-be43-98cfc571044e)
+![XM800T](https://github.com/user-attachments/assets/506d36ee-1425-4ba9-9301-81647131cc08)
 
 -The XM800T is an essence the predecessor to the M2 Bradley
 
 -Funny little IFV that can float on water
 
--I love this little guy
+-I love this little guy (*"Row row row your tank gently down the stream, lock and load in tactics mode United States Marine!"* - By a Random Gentelmen)
 
 ---
 
@@ -298,7 +302,7 @@ SEP - System Enhancement Package
 
 -The LAV AT uses a I-TOW (ATGM) with a penetration up to 650mm
 
--I like this cuz its a cool IFV (The Philippines used this during the Marawi Seige thats why I like this vehicle)
+-I like this cuz its a cool IFV
 
 ---
 
@@ -379,3 +383,49 @@ SEP - System Enhancement Package
 -The AbramsX is still in the technology demonstrator phase, with operational deployment expected by 2030 as the M1E3 Abrams, ensuring its relevance into 2040 and beyond
 
 -I love the Abrams X because, Abrams X and it looks cool
+
+---
+
+# **NUMBER 2. GERMAN GROUND TECH TREE** #
+
+---
+
+1) Sd.Kfz.234/2 (Puma)
+
+![Puma](https://github.com/user-attachments/assets/cf9b5aef-7894-4d22-9fe0-b2cc113837d4)
+
+-The Sd.Kfz.234/2 or the *"Puma"* is a light tank made by the Germans back in WW2
+
+-A heavy armoured car used mainly as a reconnaissance vehicle, featuring the turret of the prototype VK 16.02 Leopard housing a 50 mm KwK 39 cannon next to an MG42 machine gun
+
+-This thing is like an M18 but not a open top and can flip and drift (minus the gun caliber)
+
+-The Puma got lots of variants, like the Sd.Kfz.234/1, Sd.Kfz.234/3, and Sd.Kfz.234/4
+
+-Starting off with the **Sd.Kfz.234/1** or the *"Flakwagen"* is a AA version of the Puma
+
+-2nd, the **Sd.Kfz.234/3** is another variant of the Sd.Kfz.234 Family, equiped with a 75mm howitzer, it can pack a punch
+
+-Lastly, 3rd, the **Sd.Kfz.234/4**, the Sd.Kfz.234/4 or the *"Packwagen"* is a tank destroyer variant of the Sd.Kfz.234/2. It was equiped with a 7.5 cm PaK40 L/46 anti-tank gun
+
+-I love the Puma because funny car
+
+2) Pz.Sfl.Ic
+
+![Pz.Sfl.Ic](https://github.com/user-attachments/assets/b2613055-fd5f-4d7c-8fad-d5e534438e1c)
+
+-The Pz.Sfl.Ic is a Light tank made by Germany in WW2
+
+-In July, 1940 Armament Command ordered two light tank prototypes with enhanced weaponry from the company MAN. Rheinmetall-Borsig built the cannons and the bulkheads comprising the body.
+
+-In January, 1942 four tanks were produced and immediately sent to the Eastern Front as part of the 1st and 3rd squads of the 559 Antitank Battalion.
+
+-An open-top rotating hexagonal turret with no rear wall was installed. Its primary weapon was a 50mm KwK 39
+
+-The tank community calls this tank the *"Baby Tiger"* because it almost look like the Tiger tank
+
+3) The StuG III Family
+
+![StuG III G](https://github.com/user-attachments/assets/190a0019-a499-419d-87a0-785b1df890a6)
+
+-The 
