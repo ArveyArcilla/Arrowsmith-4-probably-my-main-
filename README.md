@@ -428,8 +428,18 @@ SEP - System Enhancement Package
 
 ---
 
-3) The StuG III Family
+3) The StuG III's
 
 ![StuG III G](https://github.com/user-attachments/assets/190a0019-a499-419d-87a0-785b1df890a6)
 
--The 
+-The StuG III is the most produced tank made by the Germans during WW2
+
+-The amount of StuG III's are made : Approximately 10,000 StuG III's were produced
+
+-The StuG III is a Tank Destroyer, It also has different variants of itself like the StuG III A, Sturmhaubitze 42 Ausf. G (StuH 42 G), StuG III F, StuG III G and and the Italian StuG III G
+
+-1st of, the StuG III A, on June 15, 1936, Daimler-Benz AG was ordered to develop a support vehicle mounting the 75 mm howitzer as its armament in a casemate structure with a traverse of 25 degrees
+
+-2nd, StuH 42 G, the StuH 42 G is a self-propelled gun developed in Germany during World War II and based on the StuG III F/8 and later the Ausf G. This was a conversion to the G L/28 howitzer to serve as versatile support vehicle, in service by 1942 (Leningrad) and from 1943 notably at Kursk and Kharkov
+
+-3rd, 
