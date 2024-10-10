@@ -426,6 +426,8 @@ SEP - System Enhancement Package
 
 -The tank community calls this tank the *"Baby Tiger"* because it almost look like the Tiger tank
 
+---
+
 3) The StuG III Family
 
 ![StuG III G](https://github.com/user-attachments/assets/190a0019-a499-419d-87a0-785b1df890a6)
